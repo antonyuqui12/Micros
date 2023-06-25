@@ -75,5 +75,3 @@ void actualizarSemaforo() {
             break;
     }
 }
-
-// Función para
