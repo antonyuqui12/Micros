@@ -57,7 +57,7 @@ Código el cuál está vinculado a la carpeta Semaforo
 
 --------------------------------------------------------------------------------
 
-Usar la comunicación UART en un módulo de software con archivos uart.c y
+4. Usar la comunicación UART en un módulo de software con archivos uart.c y
 uart.h. El módulo debe implementar funciones para informar:
 • Cambios en la MEF antirrebote (qué tecla y en qué estado está la MEF).
 • Cambios en la MEF del controlador de semáforos (modo de funcionamiento)
