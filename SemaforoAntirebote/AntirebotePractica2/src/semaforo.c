@@ -7,7 +7,7 @@ int16_t nbDelay(int16_t t_delay);
 void fsmTrafficLightInit(int16_t LED_GREEN, int16_t LED_YELLOW, int16_t LED_RED);
 void setTrafficLightMode(fsmTrafficLightMode_t mode,int16_t LED_GREEN, int16_t LED_YELLOW, int16_t LED_RED);
 
-// Máquina de estados de actualziación de semaforo con actualización del modo de operación
+// Máquina de estados de actualziación de semaforo con cambio de modo de operación
 void fsmTrafficLightUpdate(int16_t LED_GREEN, int16_t LED_YELLOW, int16_t LED_RED);
 void changeTrafficLightMode(int16_t LED_GREEN, int16_t LED_YELLOW, int16_t LED_RED);
 
