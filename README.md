@@ -1,5 +1,10 @@
 # Micros
-Tarea programación de microprocesadores
+
+Materia: Control Digital
+
+Nombre: Antony Ariel Uquillas Parra
+
+Tarea: Programación de microprocesadores
 
 En donde se desarrolla las siguientes actividades correspondientes a la tarea 2 de programación
 
@@ -65,3 +70,8 @@ uart.h. El módulo debe implementar funciones para informar:
 Código el cuál está vinculado a la carpeta Uart.
 
 ----------------------------------------------------------------------------------
+
+
+Descripción de cada archivo:
+
+
