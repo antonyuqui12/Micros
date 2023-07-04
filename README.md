@@ -10,6 +10,8 @@ En donde se desarrolla las siguientes actividades correspondientes a la tarea 2 
 
 --------------------------------------------------------------------------------
 
+# Actividades a realizar
+
 1. Implementar un módulo de software en los archivos teclas.c y teclas.h, que
 encapsule el funcionamiento de dos teclas (pulsadores).
 Dentro del módulo se debe implementar:
