@@ -31,7 +31,7 @@ Código el cuál está anclado a la carpeta teclas
 
 --------------------------------------------------------------------------------
 
-Implementar una única MEF que permita controlar las dos teclas de forma
+2. Implementar una única MEF que permita controlar las dos teclas de forma
 independiente. La función de actualización de la MEF debe recibir como argumento
 por referencia una estructura con los siguientes campos:
 a. Nombre de la tecla
@@ -72,8 +72,5 @@ uart.h. El módulo debe implementar funciones para informar:
 Código el cuál está vinculado a la carpeta Uart.
 
 ----------------------------------------------------------------------------------
-
-
-Descripción de cada archivo:
 
 
